@@ -14,7 +14,7 @@ The goal is to help businesses understand customer behavior and improve decision
 ---
 
 ## ⚙️ Technologies Used
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
